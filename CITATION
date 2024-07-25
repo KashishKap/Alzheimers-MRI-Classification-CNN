@@ -1,0 +1,7 @@
+@software{Kapoor2024,
+  author = {Kashish Kapoor},
+  title = {Alzheimer's MRI Classification CNN},
+  year = {2024},
+  version = {1.0},
+  url = {https://github.com/KashishKap/Alzheimers-MRI-Classification-CNN.git}
+}
